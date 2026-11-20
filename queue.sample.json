@@ -1,0 +1,18 @@
+[
+  {
+    "file_url": "/sample.mp4",
+    "title": "KEEP THE CHAOS.",
+    "description": "Night run through the neon. Crop tight, caption loud.",
+    "tags": ["gta", "night", "chaos"],
+    "streamer": "VICE",
+    "status": "queued"
+  },
+  {
+    "file_url": "/sample.mp4",
+    "title": "ROOFTOP LIGHTS",
+    "description": "Vertical reframe of the skyline pass.",
+    "tags": ["skyline", "reframe"],
+    "streamer": "NIGHT SHIFT",
+    "status": "posted"
+  }
+]
